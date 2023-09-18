@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VisionVerse
 build_property.RootNamespace = VisionVerse
-build_property.ProjectDir = d:\GPT\VisionVerse\
+build_property.ProjectDir = D:\GPT\VisionVerse\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\GPT\VisionVerse
+build_property.MSBuildProjectDirectory = D:\GPT\VisionVerse
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/GPT/VisionVerse/Pages/Error.cshtml]
+[D:/GPT/VisionVerse/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/Index.cshtml]
+[D:/GPT/VisionVerse/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/Privacy.cshtml]
+[D:/GPT/VisionVerse/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GPT/VisionVerse/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/_ViewImports.cshtml]
+[D:/GPT/VisionVerse/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/_ViewStart.cshtml]
+[D:/GPT/VisionVerse/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GPT/VisionVerse/Pages/Shared/_Layout.cshtml]
+[D:/GPT/VisionVerse/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nao5q1gd3x
